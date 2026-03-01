@@ -1,3 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Theme tokens (shadcn-style) */
 :root {
   --background: 0 0% 100%;
   --foreground: 222.2 84% 4.9%;
@@ -5,7 +10,7 @@
   --card: 0 0% 100%;
   --card-foreground: 222.2 84% 4.9%;
 
-  /* zelený akcent */
+  /* Accent (green) */
   --primary: 142.1 76.2% 36.3%;
   --primary-foreground: 355.7 100% 97.3%;
 
@@ -16,3 +21,7 @@
   --input: 214.3 31.8% 91.4%;
   --ring: 142.1 76.2% 36.3%;
 }
+
+/* Small sane defaults */
+html, body { height: 100%; }
+body { margin: 0; }
