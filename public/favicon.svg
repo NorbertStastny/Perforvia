@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <circle cx="256" cy="256" r="170" fill="none" stroke="#4C9A44" stroke-width="16"/>
+  <circle cx="256" cy="256" r="178" fill="none" stroke="#4C9A44" stroke-width="24"/>
 
-  <!-- P -->
-  <path fill="#FFFFFF" d="M150 155H250C301 155 334 185 334 232C334 279 301 309 250 309H214V388H150V155ZM214 208V256H245C264 256 273 247 273 232C273 217 264 208 245 208H214Z"/>
+  <!-- V behind -->
+  <path fill="#4C9A44" d="M318 165H390L332 372H276L231 251H291L308 305L318 165Z"/>
 
-  <!-- V -->
-  <path fill="#4C9A44" d="M332 178H392L344 387H292L250 259H306L322 316L332 178Z"/>
+  <!-- P in front -->
+  <path fill="#FFFFFF" d="M154 168H240C287 168 318 195 318 238C318 281 287 308 240 308H212V372H154V168ZM212 215V261H236C256 261 266 252 266 238C266 224 256 215 236 215H212Z"/>
 </svg>
