@@ -1,1 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="256" cy="256" r="170" fill="none" stroke="#4C9A44" stroke-width="16"/>
 
+  <!-- P -->
+  <path fill="#FFFFFF" d="M150 155H250C301 155 334 185 334 232C334 279 301 309 250 309H214V388H150V155ZM214 208V256H245C264 256 273 247 273 232C273 217 264 208 245 208H214Z"/>
+
+  <!-- V -->
+  <path fill="#4C9A44" d="M332 178H392L344 387H292L250 259H306L322 316L332 178Z"/>
+</svg>
