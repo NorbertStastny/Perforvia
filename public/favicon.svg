@@ -1,9 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <circle cx="256" cy="256" r="178" fill="none" stroke="#4C9A44" stroke-width="24"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <circle
+    cx="512"
+    cy="512"
+    r="455"
+    fill="none"
+    stroke="#4C9A44"
+    stroke-width="24"
+  />
 
-  <!-- V behind -->
-  <path fill="#4C9A44" d="M318 165H390L332 372H276L231 251H291L308 305L318 165Z"/>
+  <!-- P -->
+  <path
+    fill="#FFFFFF"
+    d="M244 283H468C589 283 668 354 668 458C668 561 589 632 468 632H377V825H244V283ZM377 392V523H449C510 523 536 500 536 458C536 415 510 392 449 392H377Z"
+  />
 
-  <!-- P in front -->
-  <path fill="#FFFFFF" d="M154 168H240C287 168 318 195 318 238C318 281 287 308 240 308H212V372H154V168ZM212 215V261H236C256 261 266 252 266 238C266 224 256 215 236 215H212Z"/>
+  <!-- V -->
+  <path
+    fill="#4C9A44"
+    d="M714 282H814L621 825H521L421 589H556L608 707L714 282Z"
+  />
 </svg>
