@@ -177,7 +177,7 @@ const Index = () => {
               </a>
             </div>
             <a
-              href="mailto:norb.stastny@gmail.com"
+              href="mailto:hello@perfovia.com"
               className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-8 py-3 rounded-lg text-base font-semibold hover:bg-primary/90 transition-colors mt-2"
             >
               Chci ukázku
