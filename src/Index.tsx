@@ -166,7 +166,7 @@ const Index = () => {
                 className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors"
               >
                 <Mail className="w-4 h-4" />
-                norb.stastny@gmail.com
+                hello@perfovia.com
               </a>
               <a
                 href="tel:+420602720291"
